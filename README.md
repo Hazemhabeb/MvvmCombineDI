@@ -18,7 +18,7 @@ This project accompanies the **"MVVM Like a Pro"** article series:
 
 - **Part 1:** [Foundation MVVM in SwiftUI](https://medium.com/@hazemhabeb94/️-how-to-use-mvvm-like-a-pro-in-ios-part-1-2eb1ac60131d)
 - **Part 2:** [MVVM + Coordinator Pattern](https://medium.com/@hazemhabeb94/mvvm-coordinator-the-secret-to-clean-navigation-in-swiftui-49b28307611f)
-- **Part 3:** Reactive MVVM with Combine & DI ← _This project_
+- **Part 3:** [Reactive MVVM with Combine & DI ← _This project_ ](https://medium.com/@hazemhabeb94/reactive-mvvm-with-combine-dependency-injection-in-swiftui-4213b13cce2d)
 - **Part 4:** MVVM vs TCA Comparison
 
 ---
