@@ -176,7 +176,7 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 📞 Contact
 Hazem Habeb
-LinkedIn
+LinkedIn : https://www.linkedin.com/in/hazem-habeb-074880b7/
 Project Link: https://github.com/Hazemhabeb/MvvmCombineDI
 🙏 Acknowledgments
 Apple's Combine Documentation
