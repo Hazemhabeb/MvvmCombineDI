@@ -175,7 +175,3 @@ Apple's Combine Documentation
 SwiftUI Tutorials
 MVVM community and best practices
 ⭐ Found this helpful? Give it a star! ⭐
-
-If you replace your current `README.md` with this formatted version, GitHub will render it cleanly with headings, code blocks, and proper spacing.  
-
-Do you want me to also **add inline preview images** for the “Show Image” parts so they
