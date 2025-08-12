@@ -35,9 +35,9 @@
 			path = MvvmCombineDI;
 			sourceTree = "<group>";
 		};
-		FAB83A4E2E4B2462001E33E6 /* MvvmCombineDITests */ = {
+		FAB83A4E2E4B2462001E33E6 /* Tests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MvvmCombineDITests;
+			path = Tests;
 			sourceTree = "<group>";
 		};
 		FAB83A582E4B2462001E33E6 /* MvvmCombineDIUITests */ = {
@@ -76,7 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				FAB83A3D2E4B2461001E33E6 /* MvvmCombineDI */,
-				FAB83A4E2E4B2462001E33E6 /* MvvmCombineDITests */,
+				FAB83A4E2E4B2462001E33E6 /* Tests */,
 				FAB83A582E4B2462001E33E6 /* MvvmCombineDIUITests */,
 				FAB83A3C2E4B2461001E33E6 /* Products */,
 			);
@@ -131,7 +131,7 @@
 				FAB83A4D2E4B2462001E33E6 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				FAB83A4E2E4B2462001E33E6 /* MvvmCombineDITests */,
+				FAB83A4E2E4B2462001E33E6 /* Tests */,
 			);
 			name = MvvmCombineDITests;
 			packageProductDependencies = (
