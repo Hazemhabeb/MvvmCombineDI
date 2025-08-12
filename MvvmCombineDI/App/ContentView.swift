@@ -8,17 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var container: DIContainer
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        UsersListView(
+            viewModel: UsersViewModel(
+                userService: container.userService
+            )
+        )
     }
-}
-
-#Preview {
-    ContentView()
 }

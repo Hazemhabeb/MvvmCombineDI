@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct MvvmCombineDIApp: App {
+    let container = DIContainer()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(container)
         }
     }
 }
