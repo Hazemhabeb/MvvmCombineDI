@@ -3,6 +3,13 @@
 A complete iOS app demonstrating **Reactive MVVM** with **Combine** and **Dependency Injection** patterns in **SwiftUI**.
 
 ---
+Here’s a preview of the app:
+
+![Screen 1](Assets/ReadmeImages/screen1.png)
+![Screen 2](Assets/ReadmeImages/screen2.png)
+![Screen 3](Assets/ReadmeImages/screen3.png)
+
+---
 
 ## 📖 Article Series
 
