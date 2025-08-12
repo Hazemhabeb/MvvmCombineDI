@@ -5,10 +5,11 @@ A complete iOS app demonstrating **Reactive MVVM** with **Combine** and **Depend
 ---
 Here’s a preview of the app:
 
-![Screen 1](MvvmCombineDI/Assets/ReadmeImages/screen1.png)
-![Screen 2](MvvmCombineDI/Assets/ReadmeImages/screen2.png)
-![Screen 3](MvvmCombineDI/Assets/ReadmeImages/screen3.png)
-
+<p align="center">
+  <img src="MvvmCombineDI/Assets/ReadmeImages/screen1.png" alt="Screen 1" width="250"/>
+  <img src="MvvmCombineDI/Assets/ReadmeImages/screen2.png" alt="Screen 2" width="250"/>
+  <img src="MvvmCombineDI/Assets/ReadmeImages/screen3.png" alt="Screen 3" width="250"/>
+</p>
 ---
 
 ## 📖 Article Series
