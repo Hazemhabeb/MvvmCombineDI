@@ -40,18 +40,19 @@ This project accompanies the **"MVVM Like a Pro"** article series:
 
 **Clean MVVM + Reactive Programming**
 
-┌─────────────────┐ ┌──────────────────┐ ┌─────────────────┐
-│ SwiftUI Views │◄───┤ ViewModels │◄───┤ Services │
-│ │ │ (@Published) │ │ (Combine │
-│ • UsersListView │ │ │ │ Publishers) │
-│ • UserRowView │ │ • UsersViewModel │ │ │
-│ • FiltersView │ │ • Reactive │ │ • UserService │
-│ │ │ Bindings │ │ • Network Layer │
-└─────────────────┘ └──────────────────┘ └─────────────────┘
-▲ ▲ ▲
-│ │ │
-└────── Automatic UI ────┴─── Data Streams ──────┘
-Updates (@Published) (Publishers)
+```plaintext
+┌──────────────────────┐     ┌───────────────────────┐     ┌──────────────────────┐
+│     SwiftUI Views     │◄───┤       ViewModels       │◄───┤       Services        │
+│                      │     │     (@Published)      │     │  (Combine Publishers) │
+│  • UsersListView     │     │                       │     │                      │
+│  • UserRowView       │     │  • UsersViewModel     │     │  • UserService        │
+│  • FiltersView       │     │  • Reactive Bindings  │     │  • Network Layer      │
+└──────────────────────┘     └───────────────────────┘     └──────────────────────┘
+         ▲                          ▲                            ▲
+         │                          │                            │
+         └────── Automatic UI ──────┴───── Data Streams ─────────┘
+                Updates (@Published)      (Publishers)
+
 
 ---
 
